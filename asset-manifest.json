@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Face-AI-Recognition/static/css/main.cdd64140.chunk.css",
+    "main.js": "/Face-AI-Recognition/static/js/main.41b69faf.chunk.js",
+    "main.js.map": "/Face-AI-Recognition/static/js/main.41b69faf.chunk.js.map",
+    "runtime-main.js": "/Face-AI-Recognition/static/js/runtime-main.ecabc676.js",
+    "runtime-main.js.map": "/Face-AI-Recognition/static/js/runtime-main.ecabc676.js.map",
+    "static/js/2.429b0ad8.chunk.js": "/Face-AI-Recognition/static/js/2.429b0ad8.chunk.js",
+    "static/js/2.429b0ad8.chunk.js.map": "/Face-AI-Recognition/static/js/2.429b0ad8.chunk.js.map",
+    "index.html": "/Face-AI-Recognition/index.html",
+    "precache-manifest.b0e87a785e9e3b364f8420c457ebbfe9.js": "/Face-AI-Recognition/precache-manifest.b0e87a785e9e3b364f8420c457ebbfe9.js",
+    "service-worker.js": "/Face-AI-Recognition/service-worker.js",
+    "static/css/main.cdd64140.chunk.css.map": "/Face-AI-Recognition/static/css/main.cdd64140.chunk.css.map",
+    "static/js/2.429b0ad8.chunk.js.LICENSE.txt": "/Face-AI-Recognition/static/js/2.429b0ad8.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ecabc676.js",
+    "static/js/2.429b0ad8.chunk.js",
+    "static/css/main.cdd64140.chunk.css",
+    "static/js/main.41b69faf.chunk.js"
+  ]
+}
